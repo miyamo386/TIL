@@ -1,4 +1,4 @@
-# 初めてGitHubで草の生した。
+# 初めてGitHubで草を生す。
 - AIに「GitHubで草を生やす方法」を質問し、参考サイトを確認。
 - GitHubサイトで、「New repository」を選択して、TILのリポジトリを作成。
 - マークダウン法で、初めてGitHubの草を生やした。
