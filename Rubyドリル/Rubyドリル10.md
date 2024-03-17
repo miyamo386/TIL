@@ -1,4 +1,4 @@
-# ruby_drill_10（配列を利用したrubyプログラムの作成）
+# Rubyドリル10（配列を利用したrubyプログラムの作成）
 ### 自己解答
 ```ruby
 def search(target_num, input)
