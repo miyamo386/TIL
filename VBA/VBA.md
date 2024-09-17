@@ -22,23 +22,6 @@
 - コードが表示されているウィンドウ（右の大きい画面）
 
 ## ❹ コードの読み方
-
-<aside>
-
-Sub 表をクリア()　　　　　　  ①
-
-'
-' 表をクリア Macro
-'　　　　　　　　　　　　　　②
-' Keyboard Shortcut: Ctrl+e
-'
-Range("A2:J19").Select
-Selection.ClearContents　　　 ③
-
-End Sub　　　　　　　　　　  ①
-
-</aside>
-
 ### ① マクロの始まり〜終わり
 - 「Sub」の後ろには「マクロ名」が入る
     - 「プロシージャー名」と呼ぶのが一般的
